@@ -15,16 +15,16 @@ image:
 
 
 Why do we want to measure our competency? Well... because we want to improve. And we have to! The world is rapidly changing: tools, technologies, paradigms, concepts, processes, competitors, crises. We must run to stay in business. We must deliver the product, maintain the quality, meet the budget...
-But competency and quality measuring is tough! We don't have rules to assess them. [Joel Spolsky](http://www.joelonsoftware.com/) tried to build a simple checklist for a team to rate its quality in his famous [The Joel Test](http://www.joelonsoftware.com/articles/fog0000000043.html), but it was sixteen years ago. So let's stand on the shoulders of giants, and revise it from just the test to a set of rules that can guide us for the better software engineering competency.  
+But competency and quality measuring is tough! We don't have rules to assess them. [Joel Spolsky](http://www.joelonsoftware.com/) tried to build a simple checklist for a team to rate its quality in his famous [The Joel Test](http://www.joelonsoftware.com/articles/fog0000000043.html), but it was sixteen years ago. So let's stand on the shoulders of giants, and revise it from just the test to a set of rules that can guide us towards a better software engineering competency.  
  
 <!-- more -->
 
 # HOW TO USE IT
 
 
-The list of rules is splitted in two parts: *Obligations* and *Merits*. Each rule is a Yes/No question. "Yes" answer to an "Obligation" gives you 0 points, “No” answer gives you -1 point. “Yes” answer to a “Merit” rulegives you 1 point, “No” answer gives you 0 points. You've got the idea, right? Having merits is good, not fulfilling obligations is bad.
-The resulting sum of points is your, let's say, Engineering Competency Score when negative number means that either your competency is questionable or is going to degrade over the time. 0 score means that you follow the professional discipline and capable of producing good quality product. Positive number says that you increase your competency and grow as professional.
-Let's go.
+The list of rules is split in two parts: *Obligations* and *Merits*. Each rule is a Yes/No question. "Yes" answer to an "Obligation" gives you 0 points, “No” answer gives you -1 point. “Yes” answer to a “Merit” rule gives you 1 point, “No” answer gives you 0 points. You've got the idea, right? Having merits is good, not fulfilling obligations is bad.
+The resulting sum of points is your, let's say, Engineering Competency Score, where negative number means that either your competency is questionable or it is going to degrade over the time. 0 score means that you follow the professional discipline and are capable of producing a good quality product. Positive number says that you increase your competency and grow as a professional.
+So let's go.
 
 # OBLIGATIONS
 
